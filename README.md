@@ -1,4 +1,10 @@
-# 💫 About Me:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d9354d9-d3a3-4d03-a2ed-ad7453e2bbd3" 
+       alt="fizza_strawberry" />
+</p>
+
+
+# 💫About Me:
 👋 Hi there! I'm a junior at FAST, passionate about app development and web development.<br>🌱 Currently, I'm learning React Native and Express to build dynamic applications.<br>🎨 In my free time, I enjoy arts & crafts, coding, and reading.<br>🚀 I'm also excited to explore AI and machine learning in the future! forward to learning AI and machine learning.  <br>
 
 
