@@ -5,7 +5,7 @@
 
 
 # 💫About Me:
-👋 Hi there! I'm a junior at FAST, passionate about app development and web development.<br>🌱 Currently, I'm learning React Native and Express to build dynamic applications.<br>🎨 In my free time, I enjoy arts & crafts, coding, and reading.<br>🚀 I'm also excited to explore AI and machine learning in the future! forward to learning AI and machine learning.  <br>
+👋 Hi there! I'm a junior at FAST, passionate about app development and web development.<br>🌱 Currently, I'm learning React Native and Express to build dynamic applications.<br>🎨 In my free time, I enjoy arts & crafts, coding, reading and writing.<br>🚀 I'm also excited to explore AI and machine learning in the future! forward to learning AI and machine learning.  <br>
 
 
 ## 🌐 Socials:
