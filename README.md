@@ -29,5 +29,5 @@ I enjoy **writing**, **baking**, **drawing**, and **crafting**, and I love bring
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://www.instagram.com/theauthordiaries/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://www.instagram.com/_theauthordiaries/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/syeda-fizza-2b66001b5/)
